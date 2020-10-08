@@ -1,0 +1,153 @@
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\FacialRecognition.exe.config
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\FacialRecognition.exe
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\FacialRecognition.pdb
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.Imaging.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.Math.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.Video.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.xml
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.Imaging.xml
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.Math.xml
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.Video.xml
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Konrad\source\repos\FacialRecognition\obj\Debug\FacialRecognition.csprojAssemblyReference.cache
+C:\Users\Konrad\source\repos\FacialRecognition\obj\Debug\FacialRecognition.Web_Cam.resources
+C:\Users\Konrad\source\repos\FacialRecognition\obj\Debug\FacialRecognition.Properties.Resources.resources
+C:\Users\Konrad\source\repos\FacialRecognition\obj\Debug\FacialRecognition.csproj.GenerateResource.cache
+C:\Users\Konrad\source\repos\FacialRecognition\obj\Debug\FacialRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\FacialRecognition\obj\Debug\FacialRecognition.csproj.CopyComplete
+C:\Users\Konrad\source\repos\FacialRecognition\obj\Debug\FacialRecognition.exe
+C:\Users\Konrad\source\repos\FacialRecognition\obj\Debug\FacialRecognition.pdb
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x64\concrt140.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x64\cvextern.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x64\msvcp140.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x64\vcruntime140.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x86\concrt140.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x86\cvextern.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x86\msvcp140.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\x86\vcruntime140.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\Emgu.CV.World.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\ZedGraph.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\Emgu.CV.World.xml
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\ZedGraph.xml
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Konrad\source\repos\FacialRecognition\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x64\concrt140.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x64\cvextern.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x64\msvcp140.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x64\vcruntime140.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x86\concrt140.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x86\cvextern.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x86\msvcp140.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\x86\vcruntime140.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\FacialRecognition.exe.config
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\FacialRecognition.exe
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\FacialRecognition.pdb
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.Imaging.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.Math.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.Video.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\Emgu.CV.World.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\ZedGraph.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.Imaging.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.Math.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.Video.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\Emgu.CV.World.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\ZedGraph.xml
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Konrad\Desktop\FacialRecognition\obj\Debug\FacialRecognition.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\FacialRecognition\obj\Debug\FacialRecognition.Web_Cam.resources
+C:\Users\Konrad\Desktop\FacialRecognition\obj\Debug\FacialRecognition.Properties.Resources.resources
+C:\Users\Konrad\Desktop\FacialRecognition\obj\Debug\FacialRecognition.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\FacialRecognition\obj\Debug\FacialRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\FacialRecognition\obj\Debug\FacialRecognition.csproj.CopyComplete
+C:\Users\Konrad\Desktop\FacialRecognition\obj\Debug\FacialRecognition.exe
+C:\Users\Konrad\Desktop\FacialRecognition\obj\Debug\FacialRecognition.pdb
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x64\concrt140.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x64\cvextern.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x64\msvcp140.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x64\vcruntime140.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x86\concrt140.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x86\cvextern.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x86\msvcp140.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\x86\vcruntime140.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\FacialRecognition.exe.config
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\FacialRecognition.exe
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\FacialRecognition.pdb
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.Imaging.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.Math.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.Video.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\Emgu.CV.World.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\ZedGraph.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.Imaging.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.Math.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.Video.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\Emgu.CV.World.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\ZedGraph.xml
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\obj\Debug\FacialRecognition.csprojAssemblyReference.cache
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\obj\Debug\FacialRecognition.Web_Cam.resources
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\obj\Debug\FacialRecognition.Properties.Resources.resources
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\obj\Debug\FacialRecognition.csproj.GenerateResource.cache
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\obj\Debug\FacialRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\obj\Debug\FacialRecognition.csproj.CopyComplete
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\obj\Debug\FacialRecognition.exe
+C:\Users\Konrad\Google Drive\Projects\FacialRecognition\obj\Debug\FacialRecognition.pdb
